@@ -1,0 +1,8 @@
+                    app
+                    / \
+                   /   \
+                shop    header
+                  |       |
+                product  cartmodal
+                          |
+                          cart  
